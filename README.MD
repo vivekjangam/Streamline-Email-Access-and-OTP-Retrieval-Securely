@@ -1,4 +1,4 @@
-This Project is Resource project for python developers. By using this resourse you can securely streamline email data retrieval and automation. I explained here example Of How to sent a random OTP from our official mail to client's account and how to verify it by accessing emails of user.
+This Project is Resource project for python developers. By using this resourse you can securely streamline email data retrieval and automation. I explained here example of 'How to send a random OTP from our official mail to client's account' and how to verify it by accessing emails of user.
 In data.txt file you have to store details of user, and in senddata.txt file you have to store details of your official mail account. I used file handelling to enhance security.
-Reffer PDF attached created by me in interactive way to easily understand and comprehend 'How wmail acces dependencies and code works, what it returns and how to understand return output by our code.
+Reffer PDF attached created by me in interactive way to easily understand and comprehend 'How Email acces dependencies and code works, what it returns and how to understand return output by our code.'
 I created this to automate the email messaging task for my client. You are free to add your innovation and customize msg body as you want. Let's code together... #github
